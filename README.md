@@ -1,8 +1,8 @@
 # loan-prediction
-Loan prediction for a Bank
+Loan prediction for a Bank.This project aims to build a predictive model for AllLife Bank to identify potential customers who have a higher probability of purchasing a personal loan. The model will help the marketing department target customers more effectively, thereby increasing the loan conversion rate.
+
 
 ## Overview
-This project aims to build a predictive model for AllLife Bank to identify potential customers who have a higher probability of purchasing a personal loan. The model will help the marketing department target customers more effectively, thereby increasing the loan conversion rate.
 
 ## Business Problem
 AllLife Bank seeks to convert its liability customers (depositors) into personal loan customers to expand its loan business. A previous campaign showed a 9%+ success rate, and the goal is to improve target marketing to further increase this ratio. The core problem is to predict whether a liability customer will accept a personal loan offer.
