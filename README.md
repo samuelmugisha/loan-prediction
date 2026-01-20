@@ -1,5 +1,5 @@
-# loan-prediction
-Loan prediction for a Bank.
+# Loan Prediction Classification model to identify customers who will purchase a personal loan
+Decision Tree Classifier
 
 ## Overview
 This project aims to build a predictive model for AllLife Bank to identify potential customers who have a higher probability of purchasing a personal loan. The model will help the marketing department target customers more effectively, thereby increasing the loan conversion rate.
